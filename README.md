@@ -12,4 +12,4 @@ __minimal webpage:__
     * no SSG build step - just plain html
 
 ## Purpose
-* Minimal compamy site for SolvWorx LLC
+* Minimal company site for SolvWorx LLC
